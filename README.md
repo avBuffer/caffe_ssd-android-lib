@@ -32,10 +32,11 @@ also add ndk path, but it's unnecessary while you've added ndk path into ~/.bash
 * If you have any idea or issues, please keep me informed.
 * My Email: jalymo at 126.com, and my QQ/Wechat: 345238818
 
-## Wechat group
+## Wechat&QQ group 
 * I setup VoAI Wechat group, which discusses AI/DL/ML/NLP.
 * VoAI means Voice of AI, Vision of AI, Visualization of AI etc.
-* You can joint VoAI Wechat group by scanning QR code in imgs path.
+* You can joint VoAI Wechat group by scanning QR-code in path ./imgs/VoAI.jpg.
+* Also you can joint QQ group ID: 183669028
 
 Any comments or issues are also welcomed.
 Thanks.
