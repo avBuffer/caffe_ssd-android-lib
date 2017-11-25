@@ -1,10 +1,10 @@
 # Caffe_SSD-Android-Lib
 
-### Introduction
+## Introduction
 * There're some questions, while we compile caffe_ssd lib based on Android.And it's difficult to solve compile questions.
 * I compiled caffe_ssd android libs correctly, and now show to all.
 
-### Support
+## Support
 * Caffe is based on [caffe_ssd](https://github.com/weiliu89/caffe.git), where you can update it.
 * Others sources are based on opensource, such as boost,gflags,glog,lmdb,OpenBLAS,OpenCV,Protobuf.
 * These supported opensource, I downloaded and integrated into the project.
@@ -23,7 +23,7 @@ cd caffe_ssd-android-lib
 source ~/.barsh.rc
 ./build.sh
 ```
-also add ndk path, but it's unnecessary while you've added ndk path into ~/.bashrc
+* Also add ndk path, but it's unnecessary while you've added ndk path into ~/.bashrc
 ```shell
 ./build.sh <path/to/ndk>
 ```
@@ -38,5 +38,4 @@ also add ndk path, but it's unnecessary while you've added ndk path into ~/.bash
 * You can joint VoAI Wechat group by scanning ![QR-code](https://github.com/avBuffer/caffe_ssd-android-lib/tree/master/imgs/VoAI.png) in path ./imgs/VoAI.jpg.
 * Also you can joint QQ group ID: 183669028
 
-Any comments or issues are also welcomed.
-Thanks.
+Any comments or issues are also welcomed.Thanks!
